@@ -4,13 +4,13 @@
 LineageOS for microG
 
 Marvin W 
-https://lineage.microg.org/
+- https://lineage.microg.org/
 
 ### Root 
 Magisk
 
 topjohnwu
-https://github.com/topjohnwu/Magisk
+- https://github.com/topjohnwu/Magisk
 
 ### Hiding the root
 
